@@ -1,0 +1,1 @@
+This repository houses the Recipes project from the Foundation course of The Odin Project.
