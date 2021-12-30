@@ -1,0 +1,25 @@
+body {
+    background-color: #ffe4e1;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+div.container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    color: #800000;
+    font-size: 60px;
+}
+
+h2 {
+    color: #800707;
+    font-size: 30px;
+}
